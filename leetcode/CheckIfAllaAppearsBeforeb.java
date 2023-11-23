@@ -15,6 +15,6 @@ public class CheckIfAllaAppearsBeforeb {
 		String s="aaabbb";
 		System.out.println(checkString(s));
 
-	}
+ 	 }
 
 }
