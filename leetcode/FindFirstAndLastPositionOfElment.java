@@ -15,7 +15,7 @@ public int[] searchRange(int[] nums, int target) {
   int ans[]= {first,last};
   return ans;
     }
-	
+	 
 	public static void main(String[] args) {
 		
 
